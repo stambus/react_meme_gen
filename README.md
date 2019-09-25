@@ -34,6 +34,12 @@ Usage of this app is much simplier then the one I've created with only JavaScrip
 You can either choose to go with default image, that's been generated when initialized or upload Your own.
 
 ![test1](test1.png)
+
+After You upload file or choose to go with default one, whenever You type text into input nodes,
+it's going to appear on image, like so:
+
+![test2](test2.png)
+
   
 ## Things to fix up.
 

@@ -1,6 +1,3 @@
-## Fixed up my react app for meme generation.
-Still need to somehow upload node_modules.
-
 ## Description
 Simple, small web app, for IBM internship.
 
@@ -44,5 +41,6 @@ it's going to appear on image, like so:
 ## Things to fix up.
 
 - Uploaded images are in default parameters like (width and length).
+- Still need to somehow upload node_modules.
 
 
